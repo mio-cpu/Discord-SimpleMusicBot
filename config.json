@@ -7,12 +7,12 @@
   "webserver": true,
   "bgm": {},
   "noMessageContent": false,
-  "twentyFourSeven": [],
+  "twentyFourSeven": true,
   "alwaysTwentyFourSeven": false,
   "cacheLevel": "memory",
   "cacheLimit": 500,
   "defaultLanguage": "ja",
   "country": "JP",
-  "botWhiteList": [],
+  "botWhiteList": null,
   "djRoleNames": [ "DJ" ]
 }
