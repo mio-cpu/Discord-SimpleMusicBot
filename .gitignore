@@ -18,8 +18,8 @@ build
 src/Commands/_index.ts
 
 # Configuration files
-*.env
-config.json
+#*.env
+#config.json
 docker-compose.yml
 compose.yml
 
